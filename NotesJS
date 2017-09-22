@@ -1,0 +1,3 @@
+{ for in }--> returns only Index of array
+{ for of }--> returns only Value of array
+
