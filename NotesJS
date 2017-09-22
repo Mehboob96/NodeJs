@@ -1,3 +1,14 @@
 { for in }--> returns only Index of array
 { for of }--> returns only Value of array
 
+javascript provide type to values not name/variable
+
+inner function defines function is call closure
+
+function are objects in JS
+function.length returns No. of Arguments passed
+
+https://stephengrider.github.io/JSPlaygrounds/			practice JS
+
+***nodeJS uses V8 chrome engine to convert into machinecode
+
