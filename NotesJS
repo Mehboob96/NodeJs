@@ -1,3 +1,6 @@
+NPM : -->	Node Package Manager
+NVM : -->	Node Version Manager
+
 { for in }--> returns only Index of array
 { for of }--> returns only Value of array
 
@@ -10,5 +13,31 @@ function.length returns No. of Arguments passed
 
 https://stephengrider.github.io/JSPlaygrounds/			practice JS
 
-***nodeJS uses V8 chrome engine to convert into machinecode
+***nodeJS uses chrome V8 JS engine to convert into machinecode
+
+chrome V8 JS engine ---> chrome open source engine
+
+NodeJS AND V8 is written in C++
+
+V8 is embeded in NodeJS
+
+IO is nothing but in out with Database
+
+Simple Client/Server uses multi thread model
+
+NodeJS uses Single Thread Model
+Single Thread Model is also called Event-Driven Model
+
+In Single Thread Model thread creates unique Events
+It can have multiple events
+it has event Queue
+
+
+we can embed any language in V8 Since NodeJS is in C++ so it is embeded ( Actually V8 executes JS code)
+
+
+******NodeJS Defination (CAPITALWORDS are the FEATURES of NodeJS)
+
+
+NodeJS is a "JAVASCRIPT RUNTIME" build on "CHROME V8 JAVASCRIPT ENGINE".NodeJS uses an "EVENT-DRIVEN" ,"NON-BLOCKING IO MODEL" that makes it lightweight and efficient.
 
