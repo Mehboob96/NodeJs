@@ -41,3 +41,18 @@ we can embed any language in V8 Since NodeJS is in C++ so it is embeded ( Actual
 
 NodeJS is a "JAVASCRIPT RUNTIME" build on "CHROME V8 JAVASCRIPT ENGINE".NodeJS uses an "EVENT-DRIVEN" ,"NON-BLOCKING IO MODEL" that makes it lightweight and efficient.
 
+
+
+ExpressJS Framework for NodeJS
+
+Use NODEMON rather node for running nodeApplication(Recomended for Developing)
+
+using EJS we will design Front-end 
+EJS is Nothing but EXTENDED JAVA SCRIPT
+EJS is a module of EXPRESSJS
+
+package.jason file is dependencie file for project
+it is created by npm init
+
+to add dependencie in this file command is
+npm install <packagename> --save
